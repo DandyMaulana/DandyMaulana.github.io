@@ -99,6 +99,7 @@ body {
     box-sizing: border-box;
     margin-top: 2em;
     padding: 3em 0em;
+    display: block;
 }
 
 
