@@ -75,7 +75,7 @@ body {
 }
 
 .under-crs {
-    background-color: #707070;
+    background-color: #f5f5f5;
 }
 
 .spaces {
@@ -84,7 +84,7 @@ body {
 }
 
 .see-more {
-    padding-top: 5em;
+    padding-top: 1.5em;
 }
 
 .thumbnail-materi {
@@ -102,6 +102,17 @@ body {
     display: block;
 }
 
+.pilihan {
+    margin-top: 2em;
+}
+
+.judul-pilihan {
+    padding-top: 2em;
+}
+
+.white-font {
+    color: white;
+}
 
 @media (max-width: 768px) {
     .jawaban {
