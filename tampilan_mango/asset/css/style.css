@@ -6,6 +6,10 @@ body {
     background-color: #D6D6D6;
 }
 
+.bg-login {
+    background-color: dodgerblue;
+}
+
 .balancer {
     padding-right: 5px;
     margin-right: 0;
@@ -112,6 +116,10 @@ body {
 
 .white-font {
     color: white;
+}
+
+.ma-9 {
+    margin-top: 9em;
 }
 
 @media (max-width: 768px) {
