@@ -73,6 +73,12 @@ body {
     padding: 0.5em;
 }
 
+.image-sesuai {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
 .btn-activated {
     background-color: #313F49fb;
     color: white;
@@ -120,6 +126,10 @@ body {
 
 .ma-9 {
     margin-top: 9em;
+}
+
+.bg-pilihan {
+    background-color: #313F49fb;
 }
 
 @media (max-width: 768px) {
